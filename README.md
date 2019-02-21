@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/16023914d/New%20Lab3/_apis/build/status/edmond1992.Calc?branchName=master)](https://dev.azure.com/16023914d/New%20Lab3/_build/latest?definitionId=1&branchName=master)
+
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
